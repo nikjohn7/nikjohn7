@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm currently a final year undergrad student at VIT Chennai. I am an avid Deep learning, NLP and Computer Vision enthusiast
-![WhatsApp Image 2020-07-12 at 11 20 24 AM](https://user-images.githubusercontent.com/29889429/87239917-181a3100-c432-11ea-8701-7cbec19ddc00.jpeg)
+![WhatsApp Image 2020-07-12 at 11 20 24 AM](https://user-images.githubusercontent.com/29889429/87240404-dcce3100-c436-11ea-84a3-79a920d6195e.jpeg)
 
 ### 🔭 Current work
 - Data Science Intern at Discover Dollar, working on relation extraxtion from entities present in millions of emails, and using that to create a structured knowledge graph.
