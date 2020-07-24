@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🌱 Currently learning
 - Deep Learning on PyTorch
 - Advanced NLP
-- RUST programming
+- Relationship extraction between extracted entities from textual data
 - Oracle Cloud development 
 
 ### 📫 You can me reach me via:
