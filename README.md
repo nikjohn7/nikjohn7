@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![WhatsApp Image 2020-07-12 at 11 20 24 AM](https://user-images.githubusercontent.com/29889429/87240404-dcce3100-c436-11ea-84a3-79a920d6195e.jpeg)
 
 ### 🔭 Current work
-- Data Science Intern at Discover Dollar, working on relation extraxtion from entities present in millions of emails, and using that to create a structured knowledge graph.
+- Data Science Intern at Discover Dollar, working on relation extraction from entities present in millions of emails, and using that to create a structured knowledge graph.
 - Machine Learning Research Intern at Okulo Aerospace, working on change detection on multi temporal data using Computer vision and Image processing
 - Machine Learning Intern at Autobot India, working on a recommender system and smart dashboard for an online learning platform
 - I'm also working on various use cases of NLP to enhance or assist corporate functioning
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🌱 Currently learning
 - Deep Learning on PyTorch
 - Advanced NLP
-- Relationship extraction between extracted entities from textual data
+- Dynamic programming
 - Oracle Cloud development 
 
 ### 📫 You can me reach me via:
