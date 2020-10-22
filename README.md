@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 #### I'm currently a final year undergrad student at VIT Chennai. I am an avid Deep learning, NLP and Computer Vision enthusiast
-![WhatsApp Image 2020-07-12 at 11 20 24 AM](https://user-images.githubusercontent.com/29889429/87240404-dcce3100-c436-11ea-84a3-79a920d6195e.jpeg)
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF">
+
+![](https://komarev.com/ghpvc/?username=nikjohn7&style=plastic&color=brightgreen)
 
 ### 🔭 Current work
 - Working on a research project dealing with Covid-19 data on lung and chest X-rays
