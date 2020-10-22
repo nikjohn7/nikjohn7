@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 - Dynamic programming
 - Oracle Cloud development 
 
+### Some geeky GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nikjohn7&count_private=true&show_icons=true&include_all_commits=true)<br/>
+
 ### 📫 You can me reach me via:
-- LinkedIn: https://www.linkedin.com/in/nikhilthomasjohn/
-- Twitter: https://twitter.com/nik_john7
-- Hackerrank: https://www.hackerrank.com/nikhil_john
-- Leetcode: https://leetcode.com/nikhil_john/
+[<img src="https://assets.pcmag.com/media/images/387503-linkedin-logo.jpg?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/nikhilthomasjohn/)
+[<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/nik_john7)
+[<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/nikhil_john)
+[<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/nikhil_john/)
