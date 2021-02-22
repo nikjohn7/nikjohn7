@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=nikjohn7&style=plastic&color=brightgreen)
 
 ### 🔭 Current work
-- Working on a research project dealing with Covid-19 data on lung and chest X-rays
-- Machine Learning Research Intern at Okulo Aerospace, working on change detection on multi temporal data using Computer vision and Image processing
+- Associate Data Scientist Intern at Discover Dollar. Working on NLP applications on Large scale email and document data
 - Applying various algorithms and data structures in solving challenges in competitive programming
 - I'm also working on various use cases of NLP to enhance or assist corporate functioning
 
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nikjohn7&count_private=true&show_icons=true&include_all_commits=true)<br/>
 
 ### 📫 You can me reach me via:
+[<img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="60" height="60"/>](https://www.kaggle.com/nikhiljohnk)
 [<img src="https://assets.pcmag.com/media/images/387503-linkedin-logo.jpg?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/nikhilthomasjohn/)
 [<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/nik_john7)
 [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/nikhil_john)
