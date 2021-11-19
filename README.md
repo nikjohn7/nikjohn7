@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=nikjohn7&style=plastic&color=brightgreen)
 
 ### 🔭 Current work
-- Associate Data Scientist Intern at Discover Dollar. Working on NLP applications on Large scale email and document data
+- Master's student at the University of Bath, working on various projects related to Machine Learning and Data Science, and studying its  mathematical fundamentals.
 - Applying various algorithms and data structures in solving challenges in competitive programming
 - I'm also working on various use cases of NLP to enhance or assist corporate functioning
 
