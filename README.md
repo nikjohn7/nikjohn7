@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=nikjohn7&style=plastic&color=brightgreen)
 
 ### 🔭 Current work
+- On a Data Science placement with Analog Devices, developing competitive intelligence algorithms, building knowledge graphs, leveraging NLP models, and focused on deriving value from data to inform strategy and drive competitive advantage.
 - Master's student at the University of Bath, working on various projects related to Machine Learning and Data Science, and studying its  mathematical fundamentals.
 - Applying various algorithms and data structures in solving challenges in competitive programming
 - I'm also working on various use cases of NLP to enhance or assist corporate functioning
