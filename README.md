@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nikjohn7&count_private=true&show_icons=true&include_all_commits=true)<br/>
 
 ### 📫 You can me reach me via:
-[<img src="https://pbs.twimg.com/profile_images/1146317507/twitter_400x400.png" width="60" height="60"/>](https://www.kaggle.com/nikhiljohnk)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="60" height="60"/>](https://www.kaggle.com/nikhiljohnk)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/nikhilthomasjohn/)
-[<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/nik_john7)
+[<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://x.com/nik_john7)
 [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/nikhil_john)
 [<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/nikhil_john/)
