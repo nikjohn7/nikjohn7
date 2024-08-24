@@ -16,23 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm currently pursuing a Master's degree in Data Science at the University of Bath, UK. I am an avid Deep learning, NLP and Computer Vision enthusiast.
+#### I'm currently a research AI scientist at InCyan. I've recently completed a Master's degree in Data Science from the University of Bath, UK. I mostly work on various AI applications, and my expertise lies in NLP, Deep Learning and now GenAI.
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF">
 
 ![](https://komarev.com/ghpvc/?username=nikjohn7&style=plastic&color=brightgreen)
 
 ### 🔭 Current work
-- On a Data Science placement with Analog Devices, developing competitive intelligence algorithms, building knowledge graphs, leveraging NLP models, and focused on deriving value from data to inform strategy and drive competitive advantage.
-- Master's student at the University of Bath, working on various projects related to Machine Learning and Data Science, and studying its  mathematical fundamentals.
+- Research Scientist at InCyan, I'm working across various spheres. I am building an end-to-end LLM pipeline that includes ingesting bulk text data, creating embeddings from them, and then implementing a RAG functionality with LLM live chat. ALso working on rapid inferencing for classification of articles. 
+- Master's graduate from the University of Bath, graduated with a distinction, including a high scoring thesis on using Generative Learners as agents in a Human-in-the-loop AI system.
 - Applying various algorithms and data structures in solving challenges in competitive programming
 - I'm also working on various use cases of NLP to enhance or assist corporate functioning
 
-### 🌱 Currently learning
-- Deep Learning on PyTorch
-- Advanced NLP
-- Dynamic programming
-- Oracle Cloud development 
 
 ### Some geeky GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nikjohn7&count_private=true&show_icons=true&include_all_commits=true)<br/>
