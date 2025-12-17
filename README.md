@@ -48,20 +48,6 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
       <br/>
       <sub>Rank 197/2664</sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/graph.png" width="50"/>
-      <br/>
-      <b>3M+ Articles</b>
-      <br/>
-      <sub>Classification Pipeline</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/speed.png" width="50"/>
-      <br/>
-      <b>7.2x Faster</b>
-      <br/>
-      <sub>Inference Speed</sub>
-    </td>
   </tr>
 </table>
 
@@ -102,15 +88,14 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
 
 ### Featured Projects
 
-<a href="https://github.com/nikjohn7/nikjohn7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=nikjohn7&theme=tokyonight&hide_border=true" />
-</a>
-
-**Knowledge Graphs + LLM Interface** — Neo4j graph with custom ontology enabling natural language to Cypher translation for conversational data querying
-
-**AIMO Solver** — DeepSeek-R1 with vLLM tensor parallelism across 4 GPUs, aggregation pipeline with weighted voting
-
-**RAG Science Pipeline** — Hybrid retrieval combining TF-IDF (270k STEM corpus) + FAISS embeddings (6M Wikipedia pages)
+<p align="center">
+  <a href="https://github.com/nikjohn7/bank-marketing-ml-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=bank-marketing-ml-service&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nikjohn7/OneCorp-Multi-Agent-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=OneCorp-Multi-Agent-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
