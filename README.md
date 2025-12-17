@@ -35,14 +35,14 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="50"/>
+      <img src="https://www.kaggle.com/static/images/medals/competitions/bronze@1x.png" width="50"/>
       <br/>
       <b>AIMO Math Olympiad</b>
       <br/>
       <sub>Rank 204/2672</sub>
     </td>
     <td align="center">
-      <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="50"/>
+      <img src="https://www.kaggle.com/static/images/medals/competitions/bronze@1x.png" width="50"/>
       <br/>
       <b>LLM Science Exam</b>
       <br/>
