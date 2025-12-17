@@ -106,10 +106,6 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikjohn7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikjohn7&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <p align="center">
