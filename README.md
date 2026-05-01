@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=524&lines=AI+Engineer+%26+Data+Scientist;Building+LLM+%26+RAG+Systems;Knowledge+Graph+Architect;Melbourne%2C+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=524&lines=AI+Engineer+%26+Data+Scientist;Building+ML+systems+%26+LLM+apps" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ### About Me
 
-AI Engineer with 3+ years building production ML systems, LLM applications, and data pipelines. MSc in Data Science (Distinction) from University of Bath. Currently based in Melbourne, exploring opportunities in applied AI and GenAI systems.
+AI Engineer with 3+ years building production ML systems, LLM applications, and data pipelines. MSc in Data Science (Distinction) from University of Bath. Currently based in Melbourne, exploring opportunities in generative AI and knowledge engineering.
 
 - Building **LLM pipelines**, **RAG systems**, and **Agentic AI** workflows
 - Architecting **Knowledge Graphs** with natural language interfaces
@@ -88,23 +88,35 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/nikjohn7/bank-marketing-ml-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=bank-marketing-ml-service&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/nikjohn7/OneCorp-Multi-Agent-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=OneCorp-Multi-Agent-System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nikjohn7/bank-marketing-ml-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=bank-marketing-ml-service&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nikjohn7/OneCorp-Multi-Agent-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=OneCorp-Multi-Agent-System&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikjohn7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikjohn7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nikjohn7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikjohn7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
