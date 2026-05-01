@@ -92,12 +92,12 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
   <tr>
     <td align="center">
       <a href="https://github.com/nikjohn7/bank-marketing-ml-service">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=bank-marketing-ml-service&theme=tokyonight&hide_border=true" />
+        <img src="https://r.jina.ai/http://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=bank-marketing-ml-service&theme=tokyonight&hide_border=true" alt="bank-marketing-ml-service" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/nikjohn7/OneCorp-Multi-Agent-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=OneCorp-Multi-Agent-System&theme=tokyonight&hide_border=true" />
+        <img src="https://r.jina.ai/http://github-readme-stats.vercel.app/api/pin/?username=nikjohn7&repo=OneCorp-Multi-Agent-System&theme=tokyonight&hide_border=true" alt="OneCorp-Multi-Agent-System" />
       </a>
     </td>
   </tr>
@@ -110,10 +110,10 @@ AI Engineer with 3+ years building production ML systems, LLM applications, and 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nikjohn7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://r.jina.ai/http://github-readme-stats.vercel.app/api?username=nikjohn7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikjohn7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://r.jina.ai/http://github-readme-stats.vercel.app/api/top-langs/?username=nikjohn7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
